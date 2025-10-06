@@ -1,6 +1,6 @@
 # back-proyecto
 
-Proyecto de ejemplo que consume la API pública https://fakestoreapi.com para listar productos o consultar un producto por su id.
+Proyecto de ejemplo del curso de BackEnd con NodeJS de Talento Tech que consume la API pública https://fakestoreapi.com para listar productos o consultar un producto por su id.
 
 ## Requisitos
 
@@ -29,10 +29,4 @@ node .\index.js
 
 ```powershell
 node .\index.js 3
-```
-
-Si ejecutas el script desde una ruta con espacios, asegúrate de encerrar la ruta entre comillas:
-
-```powershell
-node "d:\\Agus\\Cursos\\Curso Node\\back-proyecto\\index.js" 3
 ```
